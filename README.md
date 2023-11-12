@@ -9,5 +9,5 @@ Studies in CSS
 
 'css1.html' -This HTML file contains the same tags and attributes as the CSS file, but with modified CSS styling.
 
-'main1.css' - This CSS file has been modified to give the CSS styling of Grouping.
+'main1.css' - This CSS file has been modified to give the CSS styling of Grouping and Specificity.
 
