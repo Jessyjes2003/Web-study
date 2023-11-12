@@ -1,0 +1,33 @@
+body{
+    background-color : aquamarine ;
+    background-size : cover;
+    background-image : url(image.jpg);
+    background-repeat : no-repeat;
+    box-shadow : 3px 5px 3px 2px aquamarine;
+}
+.borderImg{
+    height : 400px;
+    width : 500px;
+    border : 5px solid grey;
+}
+.square{
+    background : linear-gradient(#00ccff,#b3f0ff);
+    height : 150px;
+}
+h1{
+    color : #df0d34;
+    text-align : center;
+    text-shadow : 1px 1px 3px purple;
+    text-decoration : underline #8a2be2;
+}
+h2,h3,h4{
+    color : mediumvioletred;
+    text-align : center;
+}
+ul li{
+    color : brown;
+    font-size : 20px;
+}
+ul > li{
+   color : deeppink; 
+}
